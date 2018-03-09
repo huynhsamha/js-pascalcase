@@ -1,7 +1,7 @@
 {
   "name": "js-pascalcase",
   "version": "1.0.0",
-  "description": "Pascalcase the keys of an object",
+  "description": "JavaScript convert string to PascalCase - Use for both Node.JS and Browser.",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -17,7 +17,10 @@
     "extend",
     "case",
     "browser",
-    "browserify"
+    "browserify",
+    "convert",
+    "js-convert-case",
+    "convert-case"
   ],
   "author": {
     "name": "huynhsamha",
